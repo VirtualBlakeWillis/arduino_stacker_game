@@ -1,0 +1,6 @@
+{
+    "sketch": "arduino_stacker_game.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "port": "/dev/tty.usbserial-1120"
+}
